@@ -1,0 +1,29 @@
+# ECE374 SP23 HW7
+
+## Contributors
+
+Zhirong Chen (zhirong4)
+
+Ziyuan Chen (ziyuanc3)
+
+<br>
+
+## Problem 2
+
+Given a directed acyclic graph (DAG) $G = (V, E)$ with integer (positive or negative) edge weights:
+
+**(a)** Give an algorithm to find the **shortest** path from a node $s$ to another node t.
+
+**(b)** Give an algorithm to find the **longest** path from a node $s$ to another node t.
+
+<br>
+
+## Solution
+
+### **(a)**
+
+[Placeholder]
+
+### **(b)**
+
+[Placeholder]
